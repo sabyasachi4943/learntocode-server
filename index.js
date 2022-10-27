@@ -16,9 +16,13 @@ app.get("/course-categories", (req, res) => {
   res.send(categories);
 });
 
+app.get("/topics", (req, res) => {
+  res.send(categories);
+})
+
 app.get("/topics/:id", (req, res) => {
   const id = req.params.id;
-  const selectedContent = content.find((n) => n.category_id === id);
+  const selectedContent = content.filter((n) => n.category_id === id);
   res.send(selectedContent);
 });
 
