@@ -1,201 +1,188 @@
-[
-  { 
+[{
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "term": "Algebra",
     "category_id": "01",
     "image_url": "https://cdn-icons-png.flaticon.com/512/3299/3299986.png",
-    "results": [
-      {
-        "definition": "Study of mathematical symbols and the rules for manipulating these symbols in formulas",
-        "examples": [
-          "f(x) = -2x^2 + 8x - 4",
-          "f(x) = 5 - 2x",
-          "f(x) = 7y^3 - 2x",
-          "logx(3) = 1/4",
-          "ln(3x - 2) = 1"
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "Study of mathematical symbols and the rules for manipulating these symbols in formulas",
+      "examples": [
+        "f(x) = -2x^2 + 8x - 4",
+        "f(x) = 5 - 2x",
+        "f(x) = 7y^3 - 2x",
+        "logx(3) = 1/4",
+        "ln(3x - 2) = 1"
+      ]
+    }]
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "term": "Calculus",
     "category_id": "02",
     "image_url": "https://cdn-icons-png.flaticon.com/512/4231/4231549.png",
-    "results": [
-      {
-        "definition": "The study of rates of change",
-        "examples": [
-          "lim x->3 = -2x^2 + 8x - 4 / 5^2",
-          "lim x->1 = 3x^1 - 5x / 2^2",
-          "ln 1 = 0 ",
-          "ln(x + y) = ln x + ln y",
-          "∑(6 + sqr(4i)"
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "The study of rates of change",
+      "examples": [
+        "lim x->3 = -2x^2 + 8x - 4 / 5^2",
+        "lim x->1 = 3x^1 - 5x / 2^2",
+        "ln 1 = 0 ",
+        "ln(x + y) = ln x + ln y",
+        "∑(6 + sqr(4i)"
+      ]
+    }]
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
     "term": "Topology",
     "category_id": "03",
     "image_url": "https://cdn-icons-png.flaticon.com/512/8660/8660374.png",
-    "results": [
-      {
-        "definition": "The study of properties of a geometric object that are preserved under continuous deformations",
-        "examples": [
-          "Möbius strip",
-          "Trefoil knot",
-          "Klein bottle",
-          "Projective plane",
-          "Orientability"
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "The study of properties of a geometric object that are preserved under continuous deformations",
+      "examples": [
+        "Möbius strip",
+        "Trefoil knot",
+        "Klein bottle",
+        "Projective plane",
+        "Orientability"
+      ]
+    }]
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "term": "Differential Equations",
     "category_id": "04",
     "image_url": "https://cdn-icons-png.flaticon.com/512/1837/1837757.png",
-    "results": [
-      {
-        "definition": "The process or skill of dividing two or more numbers or amounts",
-        "examples": [
-          "du/dx = cu + x^2",
-          "d^2u/d^2x = w^2u = 0",
-          "du/dx = u^2 + 6",
-          "Ld^2u/dx^2 + g sin u = 0",
-          "φu/φt + tφu/φx = 0"
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "The process or skill of dividing two or more numbers or amounts",
+      "examples": [
+        "du/dx = cu + x^2",
+        "d^2u/d^2x = w^2u = 0",
+        "du/dx = u^2 + 6",
+        "Ld^2u/dx^2 + g sin u = 0",
+        "φu/φt + tφu/φx = 0"
+      ]
+    }]
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "term": "Number Theory",
     "category_id": "05",
     "image_url": "https://cdn-icons-png.flaticon.com/512/4002/4002506.png",
-    "results": [
-      {
-        "definition": "The study of the integers and integer-valued functions.",
-        "examples": [
-          "Odd = 1,3,5,7,9...",
-          "Even = 2,4,6,8...",
-          "Square = 1,4,9,16...",
-          "Cube = 1,8,27,64...",
-          "Prime = 2,3,5,7..."
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "The study of the integers and integer-valued functions.",
+      "examples": [
+        "Odd = 1,3,5,7,9...",
+        "Even = 2,4,6,8...",
+        "Square = 1,4,9,16...",
+        "Cube = 1,8,27,64...",
+        "Prime = 2,3,5,7..."
+      ]
+    }]
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
     "term": "Analysis",
     "category_id": "06",
     "image_url": "https://cdn-icons-png.flaticon.com/512/2318/2318736.png",
-    "results": [
-      {
-        "definition": "The study of continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.",
-        "examples": [
-          "Real analysis",
-          "Functional analysis",
-          "Harmonic analysis ",
-          "Complex analysis",
-          "p-adic analysis,"
-        ]
-      }
-    ]
+    "results": [{
+      "definition": "The study of continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.",
+      "examples": [
+        "Real analysis",
+        "Functional analysis",
+        "Harmonic analysis ",
+        "Complex analysis",
+        "p-adic analysis,"
+      ]
+    }]
   },
   {
-     "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
-     "term": "Algebra",
-     "category_id": "01",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/3299/3299986.png",
-     "results": [{
-       "definition": "Study of mathematical symbols and the rules for manipulating these symbols in formulas",
-       "examples": [
-         "f(x) = -2x^2 + 8x - 4",
-         "f(x) = 5 - 2x",
-         "f(x) = 7y^3 - 2x",
-         "logx(3) = 1/4",
-         "ln(3x - 2) = 1"
-       ]
-     }]
-   }, {
-     "_id": "0282e0e58a5c404fbd15261f11c2ab65",
-     "term": "Calculus",
-     "category_id": "02",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/4231/4231549.png",
-     "results": [{
-       "definition": "The study of rates of change",
-       "examples": [
-         "lim x->3 = -2x^2 + 8x - 4 / 5^2",
-         "lim x->1 = 3x^1 - 5x / 2^2",
-         "ln 1 = 0 ",
-         "ln(x + y) = ln x + ln y",
-         "∑(6 + sqr(4i)"
-       ]
-     }]
-   }, {
-     "_id": "f69a695f037cd9484cecaea37ca71014",
-     "term": "Topology",
-     "category_id": "03",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/8660/8660374.png",
-     "results": [{
-       "definition": "The study of properties of a geometric object that are preserved under continuous deformations",
-       "examples": [
-         "Möbius strip",
-         "Trefoil knot",
-         "Klein bottle",
-         "Projective plane",
-         "Orientability"
-       ]
-     }]
-   }, {
-     "_id": "f69a695f037cd9484cecaea37ca7101g",
-     "term": "Differential Equations",
-     "category_id": "04",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/1837/1837757.png",
-     "results": [{
-       "definition": "The process or skill of dividing two or more numbers or amounts",
-       "examples": [
-         "du/dx = cu + x^2",
-         "d^2u/d^2x = w^2u = 0",
-         "du/dx = u^2 + 6",
-         "Ld^2u/dx^2 + g sin u = 0",
-         "φu/φt + tφu/φx = 0"
-       ]
-     }]
-   }, {
-     "_id": "11468ed61aee84de492a8b04158a22ff",
-     "term": "Number Theory",
-     "category_id": "05",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/4002/4002506.png",
-     "results": [{
-       "definition": "The study of the integers and integer-valued functions.",
-       "examples": [
-         "Odd = 1,3,5,7,9...",
-         "Even = 2,4,6,8...",
-         "Square = 1,4,9,16...",
-         "Cube = 1,8,27,64...",
-         "Prime = 2,3,5,7..."
-       ]
-     }]
-   }, {
-     "_id": "11468ed61aee84de492a8b04158a22fj",
-     "term": "Analysis",
-     "category_id": "06",
-     "image_url": "https://cdn-icons-png.flaticon.com/512/2318/2318736.png",
-     "results": [{
-       "definition": "The study of continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.",
-       "examples": [
-         "Real analysis",
-         "Functional analysis",
-         "Harmonic analysis ",
-         "Complex analysis",
-         "p-adic analysis,"
-       ]
-     }]
-   }
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+    "term": "Advance Algebra",
+    "category_id": "01",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/3299/3299986.png",
+    "results": [{
+      "definition": "Study of mathematical symbols and the rules for manipulating these symbols in formulas",
+      "examples": [
+        "f(x) = -2x^2 + 8x - 4",
+        "f(x) = 5 - 2x",
+        "f(x) = 7y^3 - 2x",
+        "logx(3) = 1/4",
+        "ln(3x - 2) = 1"
+      ]
+    }]
+  }, {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab65",
+    "term": "Advance Calculus",
+    "category_id": "02",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4231/4231549.png",
+    "results": [{
+      "definition": "The study of rates of change",
+      "examples": [
+        "lim x->3 = -2x^2 + 8x - 4 / 5^2",
+        "lim x->1 = 3x^1 - 5x / 2^2",
+        "ln 1 = 0 ",
+        "ln(x + y) = ln x + ln y",
+        "∑(6 + sqr(4i)"
+      ]
+    }]
+  }, {
+    "_id": "f69a695f037cd9484cecaea37ca71014",
+    "term": "Advance Topology",
+    "category_id": "03",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/8660/8660374.png",
+    "results": [{
+      "definition": "The study of properties of a geometric object that are preserved under continuous deformations",
+      "examples": [
+        "Möbius strip",
+        "Trefoil knot",
+        "Klein bottle",
+        "Projective plane",
+        "Orientability"
+      ]
+    }]
+  }, {
+    "_id": "f69a695f037cd9484cecaea37ca7101g",
+    "term": "Advance Differential Equations",
+    "category_id": "04",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/1837/1837757.png",
+    "results": [{
+      "definition": "The process or skill of dividing two or more numbers or amounts",
+      "examples": [
+        "du/dx = cu + x^2",
+        "d^2u/d^2x = w^2u = 0",
+        "du/dx = u^2 + 6",
+        "Ld^2u/dx^2 + g sin u = 0",
+        "φu/φt + tφu/φx = 0"
+      ]
+    }]
+  }, {
+    "_id": "11468ed61aee84de492a8b04158a22ff",
+    "term": "Advance Number Theory",
+    "category_id": "05",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/4002/4002506.png",
+    "results": [{
+      "definition": "The study of the integers and integer-valued functions.",
+      "examples": [
+        "Odd = 1,3,5,7,9...",
+        "Even = 2,4,6,8...",
+        "Square = 1,4,9,16...",
+        "Cube = 1,8,27,64...",
+        "Prime = 2,3,5,7..."
+      ]
+    }]
+  }, {
+    "_id": "11468ed61aee84de492a8b04158a22fj",
+    "term": "Advance Analysis",
+    "category_id": "06",
+    "image_url": "https://cdn-icons-png.flaticon.com/512/2318/2318736.png",
+    "results": [{
+      "definition": "The study of continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.",
+      "examples": [
+        "Real analysis",
+        "Functional analysis",
+        "Harmonic analysis ",
+        "Complex analysis",
+        "p-adic analysis,"
+      ]
+    }]
+  }
 ]

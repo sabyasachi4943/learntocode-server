@@ -1,26 +1,31 @@
-[
-  {
+[{
     "id": "01",
-    "name": "Algebra"
+    "name": "Algebra",
+    "definition": "any of various systems or branches of mathematics or logic concerned with the properties and relationships of abstract entities (such as complex numbers, matrices, sets, vectors, groups, rings, or fields) manipulated in symbolic form under operations often analogous to those of arithmetic"
   },
   {
     "id": "02",
-    "name": "Calculus"
+    "name": "Calculus",
+    "definition": "a method of computation or calculation in a special notation (as of logic or symbolic logic),the mathematical methods comprising differential and integral calculus,a concretion usually of mineral salts around organic material found especially in hollow organs or ducts"
   },
   {
     "id": "03",
-    "name": "Topology"
+    "name": "Topology",
+    "definition": "a branch of mathematics concerned with those properties of geometric configurations (such as point sets) which are unaltered by elastic deformations (such as a stretching or a twisting) that are homeomorphisms"
   },
   {
     "id": "04",
-    "name": "Differential Equations"
+    "name": "Differential Equations",
+    "definition": "a differential equation is an equation that relates one or more unknown functions and their derivatives. In applications, the functions generally represent physical quantities, the derivatives represent their rates of change, and the differential equation defines a relationship between the two. Such relations are common; therefore, differential equations play a prominent role in many disciplines including engineering, physics, economics, and biology."
   },
   {
     "id": "05",
-    "name": "Number Theory"
+    "name": "Number Theory",
+    "definition": "Number theory (or arithmetic or higher arithmetic in older usage) is a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions. German mathematician Carl Friedrich Gauss (1777 to 1855) said Mathematics is the queen of the sciences— and number theory is the queen of mathematics. Number theorists study prime numbers as well as the properties of mathematical objects made out of integers (for example, rational numbers) or defined as generalizations of the integers (for example, algebraic integers)."
   },
   {
     "id": "06",
-    "name": "Analysis"
+    "name": "Analysis",
+    "definition": "Analysis is the branch of mathematics dealing with continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions. These theories are usually studied in the context of real and complex numbers and functions. Analysis evolved from calculus, which involves the elementary concepts and techniques of analysis.Analysis may be distinguished from geometry however, it can be applied to any space of mathematical objects that has a definition of nearness(a topological space) or specific distances between objects(a metric space)."
   }
 ]
